@@ -208,6 +208,19 @@ Modify the block below if there are any special requirements.
 </p>
 
 {% comment %}
+ADDITIONAL NOTES
+
+Extra section created for additional notes for the learners.
+{% endcomment %}
+<p id="additional_notes">
+  <strong>Additional Notes:</strong>
+  <p>Please note that lunch will not be provided, but there will be a break for attendees to get lunch.
+  </p>
+  <p>Attendees can receive 0.5 ECTS for attending this course. Please let the instructors know if you would like to receive these credits.
+  </p>
+</p>
+
+{% comment %}
 ACCESSIBILITY
 
 Modify the block below if there are any barriers to accessibility or
@@ -242,18 +255,7 @@ special instructions.
   for their learners.
 </p>
 
-{% comment %}
-ADDITIONAL NOTES
 
-Extra section created for additional notes for the learners.
-{% endcomment %}
-<p id="additional_notes">
-  <strong>Additional Notes:</strong>
-  <p>Please note that lunch will not be provided, but there will be a break for attendees to get lunch.
-  </p>
-  <p>Attendees can receive 0.5 ECTS for attending this course. Please let the instructors know if you would like to receive these credits.
-  </p>
-</p>
 
 {% comment %}
 CONTACT EMAIL ADDRESS
